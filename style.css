@@ -278,3 +278,18 @@ h2 {
 
 .unpaid .item__percentage { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .unpaid:hover .item__description { font-weight: 900; }
+
+
+
+/* ************ FOOTER ************ */
+footer{
+    background-color: black;
+    color:white;
+    padding:9px 20px;
+    position: sticky;
+    margin-top: 224px;
+}
+.center{
+    text-align: center;
+}
+

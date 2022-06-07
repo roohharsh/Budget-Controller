@@ -1,18 +1,3 @@
 /* to make our web page responsive */
-.top{
-    height: 30vh;
-}
 
-.budget{
-    width: 622px;
-    top: 54%;
-}
-
-.budget__title{
-    font-size: 43px;
-}
-
-.budget__value{
-    font-size: 60px;
-}
 
